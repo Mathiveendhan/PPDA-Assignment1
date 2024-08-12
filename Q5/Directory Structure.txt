@@ -1,0 +1,8 @@
+- retail_data_analysis/
+    - main.py
+    - data_cleaning.py
+    - data_analysis.py
+    - customers.csv
+    - orders.csv
+    - products.csv
+    - reviews.csv
